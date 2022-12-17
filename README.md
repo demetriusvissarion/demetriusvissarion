@@ -28,7 +28,7 @@
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "Python", "Javascript" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "OtherLanguagesFrameworksAndLibraries" : { "HTML", "CSS", "Bash", "Json", "Markdown", "React", "Node.js", "Jest" },
     "Database" : { "PostgreSQL" },
     "Editors" : { "Vscode", "Sublime" },
     "Platforms" : { "Linux", "Windows" },
