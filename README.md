@@ -55,7 +55,7 @@
         </p>
 </details>
     <details open>
-  <summary><h3>stasistic</h3></summary>
+  <summary><h3>Stasistics</h3></summary>
         <p align="center">
           <a href="https://github.com/demetriusvissarion/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=demetriusvissarion&show_icons=true&theme=gruvbox&hide_border=true" />
@@ -66,15 +66,3 @@
      </samp>
   </div>    
 </details>
-
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-  <br/>
-  <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="demetrius Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=demetriusvissarion&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-<br/>
-  </samp>
-  </details>
-  
