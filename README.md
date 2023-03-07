@@ -31,3 +31,50 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+  <samp>
+    <h2 align="center"> Github stats </h2>
+      <br/>
+    <details open>
+  <summary><h3>Languages</h3></summary>
+            <p align="center">
+        <a href="[[https://github.com/1999AZZAR](https://github.com/demetriusvissarion)](https://github.com/demetriusvissarion)/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demetriusvissarion&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="demetriusvissarion :: overall Top Langs " /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/demetriusvissarion/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=demetriusvissarion&theme=gruvbox&layout=compact&hide_border=true"
+          alt="demetriusvissarion :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=demetriusvissarion&theme=gruvbox&layout=compact&hide_border=true"
+          alt="demetriusvissarion :: Top Langs by commit" />
+          </a>
+        </p>
+</details>
+    <details open>
+  <summary><h3>stasistic</h3></summary>
+        <p align="center">
+          <a href="https://github.com/demetriusvissarion/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=demetriusvissarion&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=demetriusvissarion&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+     </samp>
+  </div>    
+</details>
+
+<details>
+  <summary>📈 Latest Activity Graph</summary>
+  <samp>
+  <br/>
+  <h2 align="center"> latest contribution </h2>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="demetrius Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=demetriusvissarion&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<br/>
+  </samp>
+  </details>
+  
