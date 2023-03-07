@@ -55,7 +55,7 @@
         </p>
 </details>
     <details open>
-  <summary><h3>Stasistics</h3></summary>
+  <summary><h3>Statistics</h3></summary>
         <p align="center">
           <a href="https://github.com/demetriusvissarion/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=demetriusvissarion&show_icons=true&theme=gruvbox&hide_border=true" />
